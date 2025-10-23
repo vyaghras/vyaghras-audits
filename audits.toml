@@ -5,6 +5,12 @@ criteria = "safe-to-deploy"
 version = "0.1.13"
 aggregated-from = "https://raw.githubusercontent.com/vyaghras/bottlerocket-core-kit/refs/heads/poc-audit/sources/supply-chain/audits.toml"
 
+[[audits.argh_shared]]
+who = "Shikha Vyaghra <vyaghras@amazon.com>"
+criteria = "safe-to-deploy"
+version = "0.1.13"
+aggregated-from = "https://raw.githubusercontent.com/vyaghras/bottlerocket-core-kit/refs/heads/poc-audit/sources/supply-chain/audits.toml"
+
 [[audits.deranged]]
 who = "Shikha Vyaghra <vyaghras@amazon.com>"
 criteria = "safe-to-deploy"
